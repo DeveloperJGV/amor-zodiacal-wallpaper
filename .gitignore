@@ -1,0 +1,6 @@
+venv/
+.venv/
+build/
+frames/
+*.pkl
+__pycache__/
