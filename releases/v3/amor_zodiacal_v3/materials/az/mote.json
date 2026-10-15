@@ -1,0 +1,14 @@
+{
+ "passes": [
+  {
+   "shader": "particle",
+   "blending": "additive",
+   "cullmode": "nocull",
+   "depthtest": "disabled",
+   "depthwrite": "disabled",
+   "textures": [
+    "az/mote"
+   ]
+  }
+ ]
+}
