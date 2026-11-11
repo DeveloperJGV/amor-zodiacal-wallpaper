@@ -4,3 +4,8 @@ build/
 frames/
 *.pkl
 __pycache__/
+# Showcase: videos regenerables (showcase/src/build.py) y textos del negocio, solo en esta PC
+showcase/out/
+showcase/PUBLICACION.md
+showcase/README.md
+showcase/src/promo.py
